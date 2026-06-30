@@ -2,7 +2,7 @@
 
 ## Assignment Progress
 
-- [ ] Learn Markdown
+- [x] Learn Markdown
 - [ ] Learn Docker
 - [ ] Learn Docker Compose
 - [ ] Learn CI/CD
